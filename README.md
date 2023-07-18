@@ -9,3 +9,6 @@ El desarrollo del proyecto se llevó a cabo mediante la creación de una aplicac
 El trabajo del Equipo 1 ha logrado ofrecer una solución tecnológica completa y funcional, destacando por su enfoque en la mejora de procesos empresariales, la eficiencia en la gestión de clientes y la seguridad de la información. Estamos orgullosos de los resultados alcanzados y el impacto positivo que este proyecto ha generado tanto para la empresa como para sus clientes.
 
 Pedro Rodriguez https://github.com/prrv20/sprintfinal5
+Alexis Orfali https://github.com/Alexisy2a/sprintfinal5
+
+ 
