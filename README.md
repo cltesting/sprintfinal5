@@ -14,3 +14,4 @@ Alexis Orfali https://github.com/Alexisy2a/sprintfinal5
 
 Marcelo Gonzalez https://github.com/Ghosphor/sprintfinal5
  
+Ariel Hernandez https://github.com/arielhernandezcl/sprintfinal5
